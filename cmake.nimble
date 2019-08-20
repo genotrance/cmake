@@ -1,6 +1,6 @@
 version     = "0.1.0"
 author      = "genotrance"
-description = "cmake for Nimble"
+description = "CMake for Nimble"
 license     = "MIT"
 
 bin = @["cmake"]
