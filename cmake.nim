@@ -1,9 +1,9 @@
 import os, osproc, strutils
 
-import nimterop/git
+import nimterop/build
 
 const
-  version = "3.15.2"
+  version = "3.17.3"
   url = "https://github.com/Kitware/CMake/releases/download/v$1/cmake-$1-win64-x64.zip" % version
 
 static:
